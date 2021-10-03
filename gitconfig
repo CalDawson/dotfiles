@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cdawson198@gmail.com
+	name = Callum Dawson
